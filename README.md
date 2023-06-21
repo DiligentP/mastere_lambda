@@ -1,6 +1,6 @@
 ## 패키지 설치
 ```
-pip install -r requirement.txt --target .
+pip install -r requirement.txt --target ./python
 ```
 
 ## Serverless 명령어
